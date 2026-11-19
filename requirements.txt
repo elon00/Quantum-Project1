@@ -1,7 +1,7 @@
 # Core quantum computing dependencies
 qiskit>=1.0.0
 qiskit-aer>=0.13.0
-qiskit-ibm-runtime>=0.15.0
+qiskit-ibm-runtime>=0.52.1
 
 # Scientific computing
 numpy>=1.24.0
