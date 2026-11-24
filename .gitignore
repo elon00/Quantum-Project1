@@ -163,3 +163,6 @@ logs/
 *.tmp
 *.bak
 *.backup
+
+# Lean 4 build artifacts
+lean_verify/.lake/
